@@ -3,4 +3,4 @@
 
 — I'm currently studying at the university. In my free time, I get involved in development, and more specifically, frontend development.
 
-— I'm coding on HTML / CSS / Python.
+— I'm coding on HTML / CSS / JS.
